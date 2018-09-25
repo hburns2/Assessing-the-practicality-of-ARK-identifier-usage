@@ -4,7 +4,7 @@
 
 Halle Burns (1), Toby Burrows (2), J. Stephen Downie (1), David Lewis (2), Kevin Page (2), and Athanasios Velios (2)
 
-(1) School of Information Sciences, University of Illinois at Urbana-Champaign, USA
+(1) School of Information Sciences, University of Illinois at Urbana-Champaign, USA;
 (2) Oxford e-Research Centre, Department of Engineering Science, Oxford, UK
 
 
